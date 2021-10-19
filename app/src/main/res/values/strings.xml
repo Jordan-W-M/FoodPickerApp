@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Restaurant Decider</string>
+    <string name="button">button</string>
+    <string name="decide">DECIDE</string>
+    <string name="add_restaurant">ADD RESTAURANT</string>
+    <string name="nandos">Nandos</string>
+    <string name="restaurant_name">Restaurant Name</string>
+
+</resources>
